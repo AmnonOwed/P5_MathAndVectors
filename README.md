@@ -10,6 +10,9 @@ PVector-based. Find the closest point on line AB to point P.
 ####IntersectionLineCircle
 PVector-based. Find the point(s) of intersection (if any) between a line and a circle. Not only IF they intersect, but also WHERE.
 
+####Line2TriangleMesh
+Toxiclibs-based. Turn a series of points (aka a line) into a triangle mesh.
+
 ####LineNormal
 PVector-based. Find the normal of a line between point A and B (aka two perpendicular lines).
 
