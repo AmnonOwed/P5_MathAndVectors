@@ -5,7 +5,7 @@ Code bundle focusing on vector math related problems such as intersection, colli
 Most of these examples were written by yours truly in response to questions on the [Processing forum](https://forum.processing.org/).
 
 ####IntersectionLineCircle
-PVector-based Line Circle intersection method that returns the points of intersection (not only IF they intersect)
+PVector-based. Find the point(s) of intersection (if any) between a line and a circle. Not only IF they intersect, but also WHERE.
 
-####VectorMathExamples
-TBD
+####ClosestPointToLine
+PVector-based. Find the closest point on line AB to point P.
