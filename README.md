@@ -15,3 +15,6 @@ PVector-based. Find the normal of a line between point A and B (aka two perpendi
 
 ####RectanglesOutline
 PVector-based. Find the outer perimeter (outline) of two intersecting rectangles.
+
+####RectanglesOverlap
+PVector-based. Find the overlapping area of two intersecting rectangles.
