@@ -16,6 +16,9 @@ Toxiclibs-based. Turn a series of points (aka a line) into a triangle mesh.
 ####LineNormal
 PVector-based. Find the normal of a line between point A and B (aka two perpendicular lines).
 
+####PointInTriangle
+PVector-based. Check if point P is in triangle ABC.
+
 ####RectanglesOutline
 PVector-based. Find the outer perimeter (outline) of two intersecting rectangles.
 
